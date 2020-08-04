@@ -1,0 +1,16 @@
+venv are not getting create properly
+why i can see both base and new created env
+how to should create venv properly (should it be created in the folder where my project directory exist or should it be
+created in a system default localion for every project if yes how to do that)
+
+- why flask debug option are coming in debug config
+- why Interpreter selection option is not showing the locally created env
+
+
+
+- We should create the venv in the local project with the command python -m venv <env_name>
+- We need to activate the venv using source /<env_name>/bin/activate
+- Select the compiler option to the local created env
+- you can check pip list for installed packages
+
+-- VS Code Debug config
