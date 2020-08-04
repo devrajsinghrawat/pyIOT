@@ -10,7 +10,7 @@
             "request": "launch",
             "module": "flask",
             "env": {
-                "FLASK_APP": "/Users/dev-d/Playground/py/chat-reactn-flask/chat-app-backend/src/server.py",
+                "FLASK_APP": "/Users/dev-d/Playground/py/react-py-chat-app/chat-app-backend/src/server.py",
                 "FLASK_ENV": "development",
                 "FLASK_DEBUG": "0"
             },
